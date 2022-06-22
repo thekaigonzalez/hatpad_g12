@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://g12/theme/minimalist/minimalist.tres" type="Theme" id=1]
+
+[node name="gpu" type="WindowDialog"]
+visible = true
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -173.0
+margin_top = -137.0
+margin_right = 173.0
+margin_bottom = 143.0
+theme = ExtResource( 1 )
+window_title = "Window"
